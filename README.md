@@ -1,2 +1,2 @@
 # merak
-The Big Dipper 项目树莓派代码
+Polaris 项目树莓派 源码
